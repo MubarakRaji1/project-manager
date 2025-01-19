@@ -81,6 +81,8 @@ function App() {
             <div className="flex items-center">
               <Layout className="w-6 h-6 text-blue-600" />
               <h1 className="text-xl font-semibold ml-2 text-gray-800">Project Manager</h1>
+              <h1 className="text-xl font-semibold ml-2 text-gray-800">MADE WITH ❤️ BY MUBARAK RAJI
+</h1>
             </div>
             <div className="flex items-center">
               <button
